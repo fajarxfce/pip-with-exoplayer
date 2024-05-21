@@ -12,7 +12,8 @@ import androidx.annotation.RequiresApi
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
 import com.google.android.exoplayer2.ui.AspectRatioFrameLayout
-import com.nurulfajar.androidexoplayerwithpipmode.databinding.ActivityMainBinding
+import com.samad_talukder.androidexoplayerwithpipmode.R
+import com.samad_talukder.androidexoplayerwithpipmode.databinding.ActivityMainBinding
 
 @RequiresApi(Build.VERSION_CODES.O)
 class MainActivity : AppCompatActivity() {
