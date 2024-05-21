@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.samad_talukder.androidexoplayerwithpipmode'
+    namespace 'com.nurulfajar.androidexoplayerwithpipmode'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.samad_talukder.androidexoplayerwithpipmode"
+        applicationId "com.nurulfajar.androidexoplayerwithpipmode"
         minSdk 21
         targetSdk 33
         versionCode 1

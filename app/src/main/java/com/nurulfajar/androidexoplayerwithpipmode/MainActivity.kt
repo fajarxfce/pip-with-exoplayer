@@ -1,4 +1,4 @@
-package com.samad_talukder.androidexoplayerwithpipmode
+package com.nurulfajar.androidexoplayerwithpipmode
 
 import android.app.Activity
 import android.app.PictureInPictureParams
@@ -12,7 +12,7 @@ import androidx.annotation.RequiresApi
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
 import com.google.android.exoplayer2.ui.AspectRatioFrameLayout
-import com.samad_talukder.androidexoplayerwithpipmode.databinding.ActivityMainBinding
+import com.nurulfajar.androidexoplayerwithpipmode.databinding.ActivityMainBinding
 
 @RequiresApi(Build.VERSION_CODES.O)
 class MainActivity : AppCompatActivity() {

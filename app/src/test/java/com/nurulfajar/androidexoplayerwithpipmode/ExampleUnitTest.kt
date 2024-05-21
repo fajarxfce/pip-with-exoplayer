@@ -1,4 +1,4 @@
-package com.samad_talukder.androidexoplayerwithpipmode
+package com.nurulfajar.androidexoplayerwithpipmode
 
 import org.junit.Test
 
